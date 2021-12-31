@@ -3,7 +3,7 @@
 
 
 In internet there are lot of colorful pictures. pencil sketch  won't be avilable for all pics.
-pencil sketch would be easy for an artists to draw.this code helps to convert iamge to pencil sketch
+pencil sketch would be easy for an artists to draw.This code helps to convert image to pencil sketch
 In order to obtain a pencil sketch, we will make use of two image blending techniques, known as dodging and burning. 
 
 
