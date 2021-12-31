@@ -1,4 +1,8 @@
 "CONVERT A IMAGE TO PENCIL SKETCH USING PYTHON CODE"
+
+
+
+
 In order to obtain a pencil sketch (that is, a black-and-white drawing) of the camera frame, we will make use of two image blending techniques, known as dodging and burning. 
 These terms refer to techniques employed during the printing process in traditional photography;
 photographers would manipulate the exposure time of a certain area of a darkroom print in order to lighten or darken it. 
