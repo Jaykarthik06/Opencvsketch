@@ -21,5 +21,9 @@ procedure to achieve a pencil sketch from  image:
 
 
 Here are samples which got from the code 
+1. <img width="957" alt="girl sketch" src="https://user-images.githubusercontent.com/96882910/149398274-5c182ee4-b64a-4b60-b519-39106199570d.png">
+2. <img width="960" alt="cartoon" src="https://user-images.githubusercontent.com/96882910/149398304-49a5eb2b-7fc2-435e-a852-9046bce39a73.png">
+3. <img width="960" alt="poter" src="https://user-images.githubusercontent.com/96882910/149398325-7a380bce-fad7-42aa-851b-fc33f0b26e22.png">
+
 
 
