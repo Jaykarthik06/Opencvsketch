@@ -1,14 +1,30 @@
+IMAGE TO PENCIL SKETCH
+
+Drawing plays a big role in our cognitive development. 
+It can help us learn to write and think creatively, develop hand-eye co-ordination, hone analytic skills, and conceptualise ideas and its so important thats why kids should be taught the skill in school.
+
+Why drawing is important in life?
+It lets their imagination run wild!
+Drawing enables child's imagination to become more active. Each time they draw they access their imagination and make physical representations of what's in their mind. People's imaginations have allowed them to create all of the things that we use and are surrounded by everyday.
+
+Here are some of my sketches 
+
+
+THE MAIN AIM OF THE PROJECT is to help people or childern who wants to draw something by coverting A colour image to pencil sketch which makes them easier to draw.
+
+
 "CONVERT A IMAGE TO PENCIL SKETCH USING PYTHON CODE"
 
 
 
-In internet there are lot of colorful pictures. pencil sketch  won't be avilable for all pics.
+In internet there are lot of color pictures. pencil sketch  won't be avilable for all pics.
 pencil sketch would be easy for an artists to draw.This code helps to convert image to pencil sketch
 In order to obtain a pencil sketch, we will make use of two image blending techniques, known as dodging and burning. 
 
 
 
 procedure to achieve a pencil sketch from  image:
+
 1.install opencv
 
 2.Convert the color image to grayscale.
