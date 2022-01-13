@@ -7,7 +7,12 @@ Why drawing is important in life?
 It lets their imagination run wild!
 Drawing enables child's imagination to become more active. Each time they draw they access their imagination and make physical representations of what's in their mind. People's imaginations have allowed them to create all of the things that we use and are surrounded by everyday.
 
-Here are some of my sketches 
+Here are some of my sketches:
+
+
+![mysketch1](https://user-images.githubusercontent.com/96882910/149400168-8ed3984a-fc83-4688-8ec9-23c30793561d.jpg)
+![myketch2](https://user-images.githubusercontent.com/96882910/149400194-10ce0cec-b056-422f-a36d-dbd402ca17aa.jpg)
+![mysketch3](https://user-images.githubusercontent.com/96882910/149400229-6ee0e403-2568-473e-bf28-cf6806cce93c.jpg)
 
 
 THE MAIN AIM OF THE PROJECT is to help people or childern who wants to draw something by coverting A colour image to pencil sketch which makes them easier to draw.
@@ -25,15 +30,15 @@ In order to obtain a pencil sketch, we will make use of two image blending techn
 
 procedure to achieve a pencil sketch from  image:
 
-1.install opencv
+1. Install opencv
 
-2.Convert the color image to grayscale.
+2. Convert the color image to grayscale.
 
-3.Invert the grayscale image to get a negative.
+3. Invert the grayscale image to get a negative.
 
-4.Apply a Gaussian blur to the negative from step
+4. Apply a Gaussian blur to the negative from step
 
-5.Blend the grayscale image from step 1 with the blurred negative from step 3 using a color dodge.
+5. Blend the grayscale image from step 1 with the blurred negative from step 3 using a color dodge.
 
 
 
