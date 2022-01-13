@@ -20,5 +20,6 @@ procedure to achieve a pencil sketch from  image:
 5.Blend the grayscale image from step 1 with the blurred negative from step 3 using a color dodge.
 
 
-Here are samples which got from the code and i have tried to drawn those on the wall and sheets
+Here are samples which got from the code 
+
 
